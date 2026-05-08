@@ -24,9 +24,9 @@ namespace HuginTest
             InitializeComponent();
 
             txtBaseUrl.Text = "https://192.168.2.41:4443";
-            txtSoftwareId.Text = "6210305023";
-            txtHardwareId.Text = "40:C2:BA:4E:E2:D2";
-            txtSerialNo.Text = "FU00007382";
+            txtSoftwareId.Text = "";
+            txtHardwareId.Text = "";
+            txtSerialNo.Text = "";
             txtDocumentId.Text = "";
             txtStartBody.Text = "{\r\n  \"docCategory\": \"SALE\"\r\n}";
 
